@@ -3,5 +3,5 @@
 ## The code:
 
 * This code its a simple program to start or stop a line follow code with the cutebot kit. 
-* To use it at your own you must download and import it on the MakeCode app.
+* To use it at your own you must copy the URL of the repo and in the MakeCode app and import as an URL.
 
