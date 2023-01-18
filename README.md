@@ -5,26 +5,3 @@
 * This code its a simple program to start or stop a line follow code with the cutebot kit. 
 * To use it at your own you must download and import it on the MakeCode app.
 
-
-
-
-
-> Open this page at [https://legoworks.github.io/line_following_cute_bot/](https://legoworks.github.io/line_following_cute_bot/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/legoworks/line_following_cute_bot** and import
-
-## Edit this project ![Build status badge](https://github.com/legoworks/line_following_cute_bot/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/legoworks/line_following_cute_bot** and click import
-
